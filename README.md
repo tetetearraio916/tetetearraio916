@@ -2,14 +2,6 @@
 - 2020年2月からweb系のエンジニアを目指して勉強中。
 - Ruby on Railsを中心に即戦力になることを目指しています
 - 現在は、だいそんさんというメンターさんのもとで修行中。TechEssentialのスパルタコースというコミュニティに所属。
-<p align="left"> 
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails&logoColor=CC0000">
-  <img src="https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=CC342D">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C">  
-</p>
 
 ## 学習記録
 アウトプットのため、Qiitaに記事を書いています。
@@ -23,3 +15,11 @@
 [![](https://raw.githubusercontent.com/tetetearraio916/tetetearraio916/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tetetearraio916/tetetearraio916/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=plastic">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic">
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
+  <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
+  <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
+</p>
